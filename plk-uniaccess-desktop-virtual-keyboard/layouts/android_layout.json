@@ -1,0 +1,47 @@
+
+{
+  "name": "Android-like Layout",
+  "rows": [
+    [
+      {"label": "q", "key_code": "q", "group_id": "alpha"},
+      {"label": "w", "key_code": "w", "group_id": "alpha"},
+      {"label": "e", "key_code": "e", "group_id": "alpha"},
+      {"label": "r", "key_code": "r", "group_id": "alpha"},
+      {"label": "t", "key_code": "t", "group_id": "alpha"},
+      {"label": "y", "key_code": "y", "group_id": "alpha"},
+      {"label": "u", "key_code": "u", "group_id": "alpha"},
+      {"label": "i", "key_code": "i", "group_id": "alpha"},
+      {"label": "o", "key_code": "o", "group_id": "alpha"},
+      {"label": "p", "key_code": "p", "group_id": "alpha"}
+    ],
+    [
+      {"label": "a", "key_code": "a", "group_id": "alpha"},
+      {"label": "s", "key_code": "s", "group_id": "alpha"},
+      {"label": "d", "key_code": "d", "group_id": "alpha"},
+      {"label": "f", "key_code": "f", "group_id": "alpha"},
+      {"label": "g", "key_code": "g", "group_id": "alpha"},
+      {"label": "h", "key_code": "h", "group_id": "alpha"},
+      {"label": "j", "key_code": "j", "group_id": "alpha"},
+      {"label": "k", "key_code": "k", "group_id": "alpha"},
+      {"label": "l", "key_code": "l", "group_id": "alpha"}
+    ],
+    [
+      {"label": "Shift", "key_code": "Key.shift", "group_id": "modifier"},
+      {"label": "z", "key_code": "z", "group_id": "alpha"},
+      {"label": "x", "key_code": "x", "group_id": "alpha"},
+      {"label": "c", "key_code": "c", "group_id": "alpha"},
+      {"label": "v", "key_code": "v", "group_id": "alpha"},
+      {"label": "b", "key_code": "b", "group_id": "alpha"},
+      {"label": "n", "key_code": "n", "group_id": "alpha"},
+      {"label": "m", "key_code": "m", "group_id": "alpha"},
+      {"label": "Backspace", "key_code": "Key.backspace", "group_id": "modifier"}
+    ],
+    [
+      {"label": "123", "key_code": "123", "group_id": "symbol"},
+      {"label": ",", "key_code": ",", "group_id": "symbol"},
+      {"label": "Space", "key_code": "Key.space", "width_factor": 4, "group_id": "space"},
+      {"label": ".", "key_code": ".", "group_id": "symbol"},
+      {"label": "Enter", "key_code": "Key.enter", "group_id": "modifier"}
+    ]
+  ]
+}

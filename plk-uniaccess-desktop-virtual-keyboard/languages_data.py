@@ -1,0 +1,65 @@
+languages = {
+    "english": {
+        "name": "English",
+        "mappings": {
+            "q": "q", "w": "w", "e": "e", "r": "r", "t": "t", "y": "y", "u": "u", "i": "i", "o": "o", "p": "p",
+            "a": "a", "s": "s", "d": "d", "f": "f", "g": "g", "h": "h", "j": "j", "k": "k", "l": "l",
+            "z": "z", "x": "x", "c": "c", "v": "v", "b": "b", "n": "n", "m": "m",
+            " ": " ",
+            "Key.shift": "Key.shift",
+            "Key.backspace": "Key.backspace",
+            "Key.enter": "Key.enter",
+            "Key.space": "Key.space",
+            "Key.esc": "Key.esc",
+            "Key.f1": "Key.f1", "Key.f2": "Key.f2", "Key.f3": "Key.f3", "Key.f4": "Key.f4", "Key.f5": "Key.f5",
+            "Key.f6": "Key.f6", "Key.f7": "Key.f7", "Key.f8": "Key.f8", "Key.f9": "Key.f9", "Key.f10": "Key.f10",
+            "Key.f11": "Key.f11", "Key.f12": "Key.f12",
+            "Key.print_screen": "Key.print_screen", "Key.scroll_lock": "Key.scroll_lock", "Key.pause": "Key.pause",
+            "`": "`", "1": "1", "2": "2", "3": "3", "4": "4", "5": "5", "6": "6", "7": "7", "8": "8", "9": "9", "0": "0",
+            "-": "-", "=": "=",
+            "Key.tab": "Key.tab",
+            "[": "[", "]": "]", "\\": "\\",
+            "Key.caps_lock": "Key.caps_lock",
+            ";": ";", "'": "'",
+            ",": ",", ".": ".", "/": "/",
+            "Key.ctrl_l": "Key.ctrl_l", "Key.cmd": "Key.cmd", "Key.alt_l": "Key.alt_l",
+            "Key.alt_r": "Key.alt_r", "Key.ctrl_r": "Key.ctrl_r",
+            "Key.left": "Key.left", "Key.up": "Key.up", "Key.down": "Key.down", "Key.right": "Key.right"
+        }
+    },
+    "hindi": {
+        "name": "Hindi",
+        "mappings": {
+            "q": "क़", "w": "व", "e": "ई", "r": "र", "t": "त", "y": "य", "u": "उ", "i": "इ", "o": "ओ", "p": "प",
+            "a": "अ", "s": "स", "d": "द", "f": "फ", "g": "ग", "h": "ह", "j": "ज", "k": "क", "l": "ल",
+            "z": "ज़", "x": "क्ष", "c": "च", "v": "व", "b": "ब", "n": "न", "m": "म",
+            " ": " ",
+            "Key.shift": "Key.shift",
+            "Key.backspace": "Key.backspace",
+            "Key.enter": "Key.enter",
+            "Key.space": "Key.space",
+            "Key.esc": "Key.esc",
+            "Key.f1": "Key.f1", "Key.f2": "Key.f2", "Key.f3": "Key.f3", "Key.f4": "Key.f4", "Key.f5": "Key.f5",
+            "Key.f6": "Key.f6", "Key.f7": "Key.f7", "Key.f8": "Key.f8", "Key.f9": "Key.f9", "Key.f10": "Key.f10",
+            "Key.f11": "Key.f11", "Key.f12": "Key.f12",
+            "Key.print_screen": "Key.print_screen", "Key.scroll_lock": "Key.scroll_lock", "Key.pause": "Key.pause",
+            "`": "`",
+            "1": "१", "2": "२", "3": "३", "4": "४", "5": "५", "6": "६", "7": "७", "8": "८", "9": "९", "0": "०",
+            "-": "-", "=": "=",
+            "Key.tab": "Key.tab",
+            "[": "[", "]": "]", "\\": "\\",
+            "Key.caps_lock": "Key.caps_lock",
+            ";": ";", "'": "'",
+            ",": ",", ".": ".", "/": "/",
+            "Key.ctrl_l": "Key.ctrl_l", "Key.cmd": "Key.cmd", "Key.alt_l": "Key.alt_l",
+            "Key.alt_r": "Key.alt_r", "Key.ctrl_r": "Key.ctrl_r",
+            "Key.left": "Key.left", "Key.up": "Key.up", "Key.down": "Key.down", "Key.right": "Key.right",
+            # Shifted characters for Hindi (examples, can be expanded)
+            "A": "आ", "B": "भ", "C": "च", "D": "ध", "E": "ऐ", "F": "फ", "G": "घ", "H": "ह", "I": "ई", "J": "झ", "K": "ख", "L": "ळ", "M": "म", "N": "ण", "O": "औ", "P": "प", "Q": "क्", "R": "ऋ", "S": "श", "T": "ट", "U": "ऊ", "V": "व", "W": "व्", "X": "क्ष", "Y": "य", "Z": "ज्ञ",
+            "!": "!", "@": "@", "#": "₹", "$": "$", "%": "%",
+            "^": "^", "&": "&", "*": "*", "(": "(", ")": ")",
+            "_": "_", "+": "+", "{": "{", "}": "}", "|": "|",
+            ":": ":", "\"": "\"", "<": "<", ">": ">", "?": "?"
+        }
+    }
+}
